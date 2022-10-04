@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\bin\Debug\Jogo de Cartas.exe.config
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\bin\Debug\Jogo de Cartas.exe
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\bin\Debug\Jogo de Cartas.pdb
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\obj\Debug\Jogo de Cartas.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\obj\Debug\Jogo de Cartas.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\obj\Debug\Jogo_de_Cartas.Form1.resources
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\obj\Debug\Jogo_de_Cartas.Properties.Resources.resources
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\obj\Debug\Jogo de Cartas.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\obj\Debug\Jogo de Cartas.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\obj\Debug\Jogo de Cartas.exe
+\\Mac\Home\Documents\Jogo de Cartas\Jogo de Cartas\obj\Debug\Jogo de Cartas.pdb
